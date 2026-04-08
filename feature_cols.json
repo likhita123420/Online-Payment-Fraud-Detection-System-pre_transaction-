@@ -1,0 +1,16 @@
+[
+  "oldbalanceDest",
+  "step_hour",
+  "step_day",
+  "is_night",
+  "is_weekend",
+  "drain_bin",
+  "amount_to_dest_balance",
+  "orig_zero_before",
+  "dest_zero_before",
+  "amount_exceeds_balance",
+  "amount_log",
+  "balance_log",
+  "type_num",
+  "type_ratio"
+]
